@@ -10,3 +10,6 @@ class modelIO(object):
 
 class sgdLearning(object):
     pass
+
+class test(object):
+    pass
