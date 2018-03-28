@@ -15,6 +15,7 @@ class test(object):
     pass
 
 def main():
+    print('test in company')
     pass
 
 if __name__ == '__main__':
